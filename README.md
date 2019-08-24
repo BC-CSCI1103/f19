@@ -13,22 +13,33 @@
 
 **Office:** St. Mary's South 277; Hours TBD.
 
-<details>
+**Teaching Assistants:**
 
-<summary>**Teaching Assistants:**</summary>
+<details> <summary>Jacob Bennett (*Head TA*)</summary>
 
-+ Jacob Bennett (*Head TA*)
-  + **Section 01**: Higgins 280 Monday 4PM.
-  + **Office Hours** Fulton 160 TBD.
-+ Gavin Bloom
-  + **Section 02**: Higgins 280 Monday 5PM.
-  + **Office Hours** Fulton 160 TBD.
-+ Darius Russell Kish
-  + **Section 03**: Higgins 275 Tuesday 5PM.
-  + **Office Hours** Fulton 160 TBD.
-+ Matthew Spana
-  + **Section 04**: Higgins 280 Tuesday 6PM.
-  + **Office Hours** Fulton 160 TBD.
++ **Section 01**: Higgins 280 Monday 4PM.
++ **Office Hours** Fulton 160 TBD.
+
+</details>
+
+<details> <summary>Gavin Bloom</summary>
+
++ **Section 02**: Higgins 280 Monday 5PM.
++ **Office Hours** Fulton 160 TBD.
+
+</details>
+
+<details><summary>Darius Russell Kish</summary>
+
++ **Section 03**: Higgins 275 Tuesday 5PM.
++ **Office Hours** Fulton 160 TBD.
+
+</details>
+
+<details><summary>Matthew Spana</summary>
+
++ **Section 04**: Higgins 280 Tuesday 6PM.
++ **Office Hours** Fulton 160 TBD.
 
 </details>
 
