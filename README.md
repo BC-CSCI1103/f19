@@ -50,7 +50,7 @@
 
 ---
 
-[About](resources/about.md) — [Textbooks](resources/textbooks.md) — [Grading](resources/grading.md) — [Canvas](https://bostoncollege.instructure.com/courses/1579254/gradebook) — [Piazza](https://piazza.com/class/j6pep61xju0m5) — [Labs](resources/labs.md) — [Manual](http://caml.inria.fr/pub/docs/manual-ocaml/index.html) — [Stdlib](http://caml.inria.fr/pub/docs/manual-ocaml/stdlib.html) — [Pervasives](http://caml.inria.fr/pub/docs/manual-ocaml/libref/Pervasives.html) — [Universe](http://www.is.ocha.ac.jp/~asai/Universe/en/) — [Universe Notes](./resources/universe/README.md) — [OCaml.org](https://ocaml.org/)
+[About](resources/about.md) — [Textbooks](resources/textbooks.md) — [Grading](resources/grading.md) — [Canvas](https://bostoncollege.instructure.com/courses/1579254/gradebook) — [Piazza](https://piazza.com/class/j6pep61xju0m5) — [Manual](http://caml.inria.fr/pub/docs/manual-ocaml/index.html) — [Stdlib](http://caml.inria.fr/pub/docs/manual-ocaml/stdlib.html) — [Pervasives](http://caml.inria.fr/pub/docs/manual-ocaml/libref/Pervasives.html) — [Universe](http://www.is.ocha.ac.jp/~asai/Universe/en/) — [Universe Notes](./resources/universe/README.md) — [OCaml.org](https://ocaml.org/)
 
 ---
 
@@ -92,7 +92,7 @@
 |      |  2   | W 08/28/19 | Base types; literals & expressions; simplification & work; values;  |
 |      |  3   | F 08/30/19 | libraries |
 |  2   |      | M 09/02/19 | **Labor Day, No Meeting** |
-|      |  4   | W 09/04/19 | Names: `let` and `let-in`; function definitions and calls; replacement; implicit vs explicit types|
+|      |  4   | W 09/04/19 | Names: `let` and `let-in`; function definitions and calls; replacement; explicit types or implicit types with type inference |
 |      |  5   | F 09/06/19 | More on function definitions; the graphics library  |
 |  3   |  6   | M 09/09/19 | **Guest Lecturer**: Tuples & pattern matching branching; lists |
 |      |  7   | W 09/11/19 | record & sum types |
@@ -136,3 +136,35 @@
 |  16  |  42  | M 12/09/19 | Last Meeting; Catch up and Review |
 
 </details>
+
+---
+
+# Labs
+
+Lab meetings are an especially important part of CSCI 1103. Students will work on topics related to the problem set and to the lecture material. Attendance and active participation in labs is an important component of the class participation component of the course grade.
+
+**Always bring your laptop to lab!**
+
+**NB: There will be no lab meeting Monday 09/02, Tuesday 09/03, Monday 10/14 or Tuesday 10/15.**
+
+---
+
+## Lab Schedule
+
+| Mtng | Topic                                                 |
+| :--: | :---------------------------------------------------- |
+|  1   | [Getting Started](https://github.com/BC-CSCI1103/ps1) |
+|  2   | [Unix](./02.lab.unix/writeup/writeup.pdf)             |
+|  3   | Github                                                |
+|  4   | Graphics                                              |
+|  5   | Lists & Trees                                         |
+|  6   | Trees                                                 |
+|  7   | Amination                                             |
+|  8   | Numeral Systems & Storage                             |
+|  9   | SVM                                                   |
+|  10  | Mutation                                              |
+|  11  | FileIO                                                |
+|  12  | Catch Up                                              |
+
+
+
