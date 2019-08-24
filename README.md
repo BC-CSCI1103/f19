@@ -53,7 +53,8 @@
 
 <details>
   <summary>At a Glance</summary>
-#### Month by Month
+
+  #### Month by Month
 
 1. Learning to code, writing functions;
 2. Bits, Bytes & Machines
