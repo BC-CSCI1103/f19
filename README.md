@@ -15,7 +15,7 @@
 
 **Teaching Assistants:**
 
-<details> <summary>Jacob Bennett (*Head TA*)</summary>
+<details> <summary>Jacob Bennett, Head TA</summary>
 
 + **Section 01**: Higgins 280 Monday 4PM.
 + **Office Hours** Fulton 160 TBD.
