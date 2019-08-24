@@ -51,6 +51,32 @@
 
 ## Schedule
 
+<details>
+  <summary>At a Glance</summary>
+#### Month by Month
+
+1. Learning to code, writing functions;
+2. Bits, Bytes & Machines
+3. Applications
+
+#### Week by Week
+1. Logisitics; base types and expressions
+2. Naming; Writing Functions; Branching 
+3. Repetition; Graphics; Lists
+4. Repetition
+5. Repetition
+6. Animation; Model-View-Update
+7. Algorithms
+8. Digital Representations
+9. Machines
+10. Storage
+11. Coding in Imperative Style
+12. Strings, Text & Files
+13. Applications
+14. Designing & Implementing new Types
+
+</details>
+
 | Week | Mtng |     | Topic  |
 | :--: | :--: | :-- | :--------------------------------------- |
 |  1   |  1   | M 08/26/19 | Introduction and Overview                |
