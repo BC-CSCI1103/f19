@@ -4,6 +4,9 @@
 
 ---
 
+<details open>
+  <summary>Administration</summary>
+
 **Meets:** 
 
 1. Section 01 meets Mondays, Wednesdays and Fridays at 12PM in Lyons 202;
@@ -43,6 +46,8 @@
 
 </details>
 
+</details>
+
 ---
 
 [About](resources/about.md) — [Textbooks](resources/textbooks.md) — [Grading](resources/grading.md) — [Canvas](https://bostoncollege.instructure.com/courses/1579254/gradebook) — [Piazza](https://piazza.com/class/j6pep61xju0m5) — [Labs](resources/labs.md) — [Manual](http://caml.inria.fr/pub/docs/manual-ocaml/index.html) — [Stdlib](http://caml.inria.fr/pub/docs/manual-ocaml/stdlib.html) — [Pervasives](http://caml.inria.fr/pub/docs/manual-ocaml/libref/Pervasives.html) — [Universe](http://www.is.ocha.ac.jp/~asai/Universe/en/) — [Universe Notes](./resources/universe/README.md) — [OCaml.org](https://ocaml.org/)
@@ -77,8 +82,6 @@
 14. Designing & Implementing new Types
 
 </details>
-
----
 
 <details open>
   <summary>Details</summary>
