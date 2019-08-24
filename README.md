@@ -151,20 +151,20 @@ Lab meetings are an especially important part of CSCI 1103. Students will work o
 
 ## Lab Schedule
 
-| Mtng | Topic                                                 |
-| :--: | :---------------------------------------------------- |
-|  1   | [Getting Started](https://github.com/BC-CSCI1103/ps1) |
-|  2   | [Unix](./02.lab.unix/writeup/writeup.pdf)             |
-|  3   | Github                                                |
-|  4   | Graphics                                              |
-|  5   | Lists & Trees                                         |
-|  6   | Trees                                                 |
-|  7   | Amination                                             |
-|  8   | Numeral Systems & Storage                             |
-|  9   | SVM                                                   |
-|  10  | Mutation                                              |
-|  11  | FileIO                                                |
-|  12  | Catch Up                                              |
+| Mtng | Topic                                                        |
+| :--: | :----------------------------------------------------------- |
+|  1   | Getting Started                                              |
+|  2   | Working with Unix and the Unix Command Line                  |
+|  3   | Working with git and Github                                  |
+|  4   | The Universe Graphics Library                                |
+|  5   | Working with Lists & Trees                                   |
+|  6   | More Trees                                                   |
+|  7   | Animation and the Model-View-Update pattern                  |
+|  8   | Numeral Systems & Storage                                    |
+|  9   | The Simple Virtual Machine                                   |
+|  10  | Coding in Imperative Style; Mutation, for-loops & while-loops |
+|  11  | Working with Strings, Text & Files                           |
+|  12  | Catch Up                                                     |
 
 
 
