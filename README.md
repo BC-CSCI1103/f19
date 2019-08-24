@@ -78,6 +78,11 @@
 
 </details>
 
+---
+
+<details open>
+  <summary>Details</summary>
+
 | Week | Mtng |     | Topic  |
 | :--: | :--: | :-- | :--------------------------------------- |
 |  1   |  1   | M 08/26/19 | Introduction and Overview                |
@@ -126,3 +131,5 @@
 |      |  40  | W 12/04/19 |  |
 |      |  41  | F 12/06/19 | Type abstraction: making new types in OCaml and Java |
 |  16  |  42  | M 12/09/19 | Last Meeting; Catch up and Review |
+
+</details>
