@@ -11,12 +11,12 @@ Boston College
 
 **Meets:** 
 
-1. Section 01 meets Mondays, Wednesdays and Fridays at 12PM in Lyons 202;
+1. Section 01 meets Mondays, Wednesdays and Fridays at 12PM in Lyons Hall 202;
 2. Section 02 meets Mondays, Wednesdays and Fridays at 2PM in Fulton Hall 415.
 
 **Instructor:** [Robert Muller](http://www.cs.bc.edu/~muller/)
 
-**Office:** St. Mary's South 277; Hours TBD.
+**Office:** St. Mary's South 277; Hours Mondays 3PM - 5PM, Tuesdays 10AM - 12PM.
 
 **Teaching Assistants:**
 
@@ -93,49 +93,49 @@ Boston College
 | Week | Mtng |     | Topic  |
 | :--: | :--: | :-- | :--------------------------------------- |
 |  1   |  1   | M 08/26/19 | Introduction and Overview                |
-|      |  2   | W 08/28/19 | Base types; literals & expressions; simplification & work; values;  |
+|      |  2   | W 08/28/19 | Development logistics -- working with Virtual Box, Atom & OCaml; Base types; literals & expressions; simplification & work; values; |
 |      |  3   | F 08/30/19 | libraries |
 |  2   |      | M 09/02/19 | **Labor Day, No Meeting** |
 |      |  4   | W 09/04/19 | Names: `let` and `let-in`; function definitions and calls; replacement; explicit types or implicit types with type inference |
 |      |  5   | F 09/06/19 | More on function definitions; the graphics library  |
-|  3   |  6   | M 09/09/19 | **Guest Lecturer**: Tuples & pattern matching branching; lists |
+|  3   |  6   | M 09/09/19 | **Guest Lecturer**: Tuples & pattern matching branching; variable bindings & scope |
 |      |  7   | W 09/11/19 | record & sum types |
-|      |  8   | F 09/13/19 | Repetition: recursive list processing |
-|  4   |  9   | M 09/16/19 | Working with lists; computational shapes; working with numbers, primality |
-|      |  10  | W 09/18/19 |  |
+|      |  8   | F 09/13/19 | Repetition: recursive list processing, `List.mem` & `List.append`; polymorphism |
+|  4   |  9   | M 09/16/19 | Working with lists; learning from `List.rev`; computational shapes; |
+|      |  10  | W 09/18/19 | Working with numbers, primality |
 |      |  11  | F 09/20/19 | Working with repetitive images |
-|  5   |  12  | M 09/23/19 | Repetition: images, primality |
+|  5   |  12  | M 09/23/19 | More repetition |
 |      |  13  | W 09/25/19 | Sorting: insertion sort |
 |      |  14  | F 09/27/19 | **First Exam** |
-|  6   |  15  | M 09/30/19 | More on sorting: quicksort, mergesort xx Animation: the model-view-update architecture; Functions are values: map; filter and fold |
-|      |  16  | W 10/02/19 |  |
-|      |  17  | F 10/04/19 | Exam review, ... |
+|  6   |  15  | M 09/30/19 | More on sorting: the quicksort & mergesort algorithms |
+|      |  16  | W 10/02/19 | Animation: the model-view-update architecture |
+|      |  17  | F 10/04/19 | Exam review, Functions are values: `List.map` & `List.filter` |
 |  7   |  18  | M 10/07/19 | More on function values: function slope, Riemann sums; Dictionaries: association lists |
 |      |  19  | W 10/09/19 | Binary Search Trees |
 |      |  20  | F 10/11/19 | The Best Candidate Algorithm |
 |  8   |      | M 10/14/19 | **No Meeting** |
 |      |  21  | W 10/16/19 | Symbols and Digital Representations; Positional Numeral Systems |
 |      |  22  | F 10/18/19 | Binary — logic gates; a ripple-carry adder; Hexadecimal |
-|  9   |  23  | M 10/21/19 | Machines & Storage Architecture, Bytes & Words |
+|  9   |  23  | M 10/21/19 | Machines & Storage Architecture, Bits, Bytes & Words |
 |      |  24  | W 10/23/19 | SVM — A Simple Virtual Machine |
-|      |  25  | F 10/25/19 |  |
+|      |  25  | F 10/25/19 | Assembly coding |
 |  10  |  26  | M 10/28/19 | Storage diagrams & the storage model of evaluation |
 |      |  27  | W 10/30/19 | Imperative coding in OCaml: mutable references; arrays |
 |      |  28  | F 11/01/19 | **Second Exam** |
-|  11  |  29  | M 11/04/19 | for-loops & while-loops |
-|      |  30  | W 11/06/19 | for-loops & while-loops |
-|      |  31  | F 11/08/19 | Exam review, ... |
+|  11  |  29  | M 11/04/19 | Mutable state, block storage (arrays, vectors), for-loops & while-loops |
+|      |  30  | W 11/06/19 | More on for-loops & while-loops |
+|      |  31  | F 11/08/19 | Exam review; benefits & challenges of the imperative style |
 |  12  |  32  | M 11/11/19 | Applications of arrays: digital audio |
 |      |  33  | W 11/13/19 |  |
-|      |  34  | F 11/15/19 | Applications of arrays: digital images |
-|  13  |  35  | M 11/18/19 | Search problems; mazes, Eight Queens |
-|      |  36  | W 11/20/19 |  |
-|      |  37  | F 11/22/19 |  |
-|  14  |  38  | M 11/25/19 | Working with strings & text files |
+|      |  34  | F 11/15/19 | Working with 2D arrays: digital images |
+|  13  |  35  | M 11/18/19 | Search problems: mazes, Eight Queens |
+|      |  36  | W 11/20/19 | Search problems: eight queens, the knights tour |
+|      |  37  | F 11/22/19 | Working with strings & text files |
+|  14  |  38  | M 11/25/19 | Working with strings & text files; applications in bioinformatics |
 |      |      | W 11/27/19 | **No Meeting** |
 |      |      | F 11/29/19 | **No Meeting** |
 |  15  |  39  | M 12/02/19 | Working with strings and text files; applications in bioinformatics |
-|      |  40  | W 12/04/19 |  |
+|      |  40  | W 12/04/19 | Modules |
 |      |  41  | F 12/06/19 | Type abstraction: making new types in OCaml and Java |
 |  16  |  42  | M 12/09/19 | Last Meeting; Catch up and Review |
 
