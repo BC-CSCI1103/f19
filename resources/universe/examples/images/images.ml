@@ -10,7 +10,7 @@
 open Color
 open Image
 open World
-open Cs1103
+open Code
 
 let displayWidth = 600.
 let displayHeight = displayWidth

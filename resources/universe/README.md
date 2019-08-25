@@ -1,7 +1,5 @@
 # CSCI 1103 Computer Science I Honors
 
-### Fall 2017
-
 ------
 
 ## Notes on the Universe Graphics & Animation Library (DRAFT)

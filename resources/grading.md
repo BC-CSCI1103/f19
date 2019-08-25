@@ -1,4 +1,4 @@
-# CSCI 1103 Computer Science I Honors
+# CSCI 1103 Computer Science 1 Honors
 
 ### Fall 2019
 
@@ -6,22 +6,23 @@
 
 ## Grading
 
-CSCI 1103 is very much a "learn by doing" course. Reflecting this, grades will emphasize the problem sets. Grades will be computed along the following lines: 
-- 45% problem sets;
-- 40% three exams (10%, 10%, 18%);
-- 15% class, lab and piazza forum participation.
+Like most CS courses, CSCI 1103 is very much a "learn by doing" course. Reflecting this, grades will emphasize the problem sets. Grades will be computed on a 200 point scale. The points are distributed as follows:
 
-**Notes**:    
-- The instructor reserves the right to adjust the relative percentages of the grade components for an individual student if there is a significant discrepancy between the exam scores and the problem set scores.
++ 90 points over 10 problem sets;
 
-- Unless specified otherwise, problem sets must be submitted for grading by midnight on the specified due date.
++ 80 points over 3 exams --- 20 points for each of two midterms and 40 points for the final exam;
 
-- Extensions for problem set deadlines are granted only for documented medical problems or other family emergencies. Having a busy schedule isn't grounds for an extension.
++ 30 points for class and piazza participation;
 
-- Under no circumstances can code be submitted for grading by attaching it to an email message. An attempt to submit code via email will not receive a reply notifying the sender that the attempted submission failed.
+Grades will be recorded on the Canvas website.
 
-- Late problem sets will be penalized 25% each day.
+#### Notes:
 
-- Students missing an exam without prior permission of the instructor will need a note from their doctor.
++ Unless specified otherwise, problem sets must be submitted by pushing your repository to GitHub by midnight on the due date. NB: under no circumstances at all can code be submitted for grading by attaching it to an email message. An attempt to submit code via email probably won't receive a reply notifying the sender that the attempted submission failed. 
 
-- Any violation of [the university's policy on academic integrity](http://www.bc.edu/schools/cas/polisci/integrity.html) will result in a failing grade for the course.
+
++ Late problem sets will be penalized 20% each day.
++ Students missing an exam without prior permission of the instructor will receive a zero for that exam unless they provide a note from their doctor.
++ Any violation of the [university's policy on academic integrity](http://www.bc.edu/offices/stserv/academic/integrity.html) will result in a failing grade for the course.
+
+
