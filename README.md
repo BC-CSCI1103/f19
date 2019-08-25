@@ -1,6 +1,8 @@
 # CSCI 1103 Computer Science I Honors
 
-### Fall 2019 — UNDER CONSTRUCTION!
+### Fall 2019
+
+Boston College
 
 ---
 
@@ -18,7 +20,7 @@
 
 **Teaching Assistants:**
 
-<details> <summary>Jacob Bennett, Head TA</summary>
+<details> <summary>Jacob Bennett, Head Teaching Assistant</summary>
 
 + **Section 01**: Higgins 280 Monday 4PM.
 + **Office Hours** Fulton 160 TBD.
@@ -50,7 +52,9 @@
 
 ---
 
-[About](resources/about.md) — [Textbooks](resources/textbooks.md) — [Grading](resources/grading.md) — [Canvas](https://bostoncollege.instructure.com/courses/1601979/gradebook) — [Piazza](https://piazza.com/class/jzpxeqmmnxf2mv) — [Manual](http://caml.inria.fr/pub/docs/manual-ocaml/index.html) — [Stdlib](http://caml.inria.fr/pub/docs/manual-ocaml/stdlib.html) — [Pervasives](http://caml.inria.fr/pub/docs/manual-ocaml/libref/Pervasives.html) — [Universe](http://www.is.ocha.ac.jp/~asai/Universe/en/) — [Universe Notes](./resources/universe/README.md) — [OCaml.org](https://ocaml.org/)
+[About](resources/about.md) — [Textbooks](resources/textbooks.md) — [Grading](resources/grading.md) — [Canvas](https://bostoncollege.instructure.com/courses/1601979/gradebook) — [Piazza](https://piazza.com/class/jzpxeqmmnxf2mv)
+
+[Manual](http://caml.inria.fr/pub/docs/manual-ocaml/index.html) — [Stdlib](http://caml.inria.fr/pub/docs/manual-ocaml/stdlib.html) — [Pervasives](http://caml.inria.fr/pub/docs/manual-ocaml/libref/Pervasives.html) — [Universe](http://www.is.ocha.ac.jp/~asai/Universe/en/) — [Universe Notes](./resources/universe/README.md) — [OCaml.org](https://ocaml.org/) — [Cornell CS3110](https://www.cs.cornell.edu/courses/cs3110/2019fa/)
 
 ---
 
@@ -62,7 +66,7 @@
   #### Month by Month
 
 1. Learning to code, writing functions;
-2. Bits, Bytes & Machines
+2. Bits, bytes & machines
 3. Applications
 
 #### Week by Week
