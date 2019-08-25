@@ -12,7 +12,7 @@ Like most CS courses, CSCI 1103 is very much a "learn by doing" course. Reflecti
 
 + 80 points over 3 exams --- 20 points for each of two midterms and 40 points for the final exam;
 
-+ 30 points for class and piazza participation;
++ 30 points for lab, class and piazza participation;
 
 Grades will be recorded on the Canvas website.
 
