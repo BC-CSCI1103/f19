@@ -109,7 +109,7 @@ Boston College
 |      |  14  | F 09/27/19 | **First Exam** |
 |  6   |  15  | M 09/30/19 | More on sorting: quicksort, mergesort xx Animation: the model-view-update architecture; Functions are values: map; filter and fold |
 |      |  16  | W 10/02/19 |  |
-|      |  17  | F 10/04/19 |  |
+|      |  17  | F 10/04/19 | Exam review, ... |
 |  7   |  18  | M 10/07/19 | More on function values: function slope, Riemann sums; Dictionaries: association lists |
 |      |  19  | W 10/09/19 | Binary Search Trees |
 |      |  20  | F 10/11/19 | The Best Candidate Algorithm |
@@ -121,10 +121,10 @@ Boston College
 |      |  25  | F 10/25/19 |  |
 |  10  |  26  | M 10/28/19 | Storage diagrams & the storage model of evaluation |
 |      |  27  | W 10/30/19 | Imperative coding in OCaml: mutable references; arrays |
-|      |  28  | F 11/01/19 | for-loops & while-loops |
-|  11  |  29  | M 11/04/19 | More on for-loops & while-loops |
-|      |  30  | W 11/06/19 |  |
-|      |  31  | F 11/08/19 | **Second Exam** |
+|      |  28  | F 11/01/19 | **Second Exam** |
+|  11  |  29  | M 11/04/19 | for-loops & while-loops |
+|      |  30  | W 11/06/19 | for-loops & while-loops |
+|      |  31  | F 11/08/19 | Exam review, ... |
 |  12  |  32  | M 11/11/19 | Applications of arrays: digital audio |
 |      |  33  | W 11/13/19 |  |
 |      |  34  | F 11/15/19 | Applications of arrays: digital images |
