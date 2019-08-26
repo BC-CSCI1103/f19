@@ -92,7 +92,7 @@ Boston College
 
 | Week | Mtng |     | Topic  |
 | :--: | :--: | :-- | :--------------------------------------- |
-|  1   |  1   | M 08/26/19 | Introduction and Overview                |
+|  [1](https://github.com/BC-CSCI1103/Week01)  |  1   | M 08/26/19 | Introduction and Overview                |
 |      |  2   | W 08/28/19 | Development logistics -- working with Virtual Box, Atom & OCaml; Base types; literals & expressions; simplification & work; values; |
 |      |  3   | F 08/30/19 | libraries |
 |  2   |      | M 09/02/19 | **Labor Day, No Meeting** |
