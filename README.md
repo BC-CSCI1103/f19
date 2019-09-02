@@ -23,28 +23,28 @@ Boston College
 <details> <summary>Jacob Bennett, Head Teaching Assistant</summary>
 
 + **Section 01**: Higgins 280 Monday 4PM.
-+ **Office Hours** Fulton 160 TBD.
++ **Office Hours** Tuesdays 3PM -- 4:30PM, Thursdays **10:30AM -- 11:45AM, Fulton Hall 160.
 
 </details>
 
 <details> <summary>Gavin Bloom</summary>
 
-+ **Section 02**: Higgins 280 Monday 5PM.
-+ **Office Hours** Fulton 160 TBD.
++ **Section 04**: Higgins 280, Tuesday 6PM.
++ **Office Hours** Thursdays 9:30AM -- 11:30AM, Fridays 9:30AM -- 10:30AM, Fulton Hall 160.
 
 </details>
 
 <details><summary>Darius Russell Kish</summary>
 
 + **Section 03**: Higgins 275 Tuesday 5PM.
-+ **Office Hours** Fulton 160 TBD.
++ **Office Hours** Mondays 5PM -- 10PM **Devlin 009**, Tuesdays 6PM -- 7PM, Fulton Hall 160.
 
 </details>
 
 <details><summary>Matthew Spana</summary>
 
-+ **Section 04**: Higgins 280 Tuesday 6PM.
-+ **Office Hours** Fulton 160 TBD.
++ **Section 02**: Higgins 280 Monday 5PM.
++ **Office Hours** Fridays 2PM -- 4PM, Sundays 3PM -- 6PM, Fulton Hall 160.
 
 </details>
 
