@@ -102,9 +102,9 @@ Boston College
 |      |  7   | W 09/11/19 | Lists; repetition & recursive list processing, `List.mem` & `List.append` |
 |      |  8   | F 09/13/19 | learning from `List.rev`; computational shapes; local functions |
 |  4   |  9   | M 09/16/19 | More working with lists; `sublists` recursion & induction; record types |
-|      |  10  | W 09/18/19 | The graphics library; Working with repetitive images |
-|      |  11  | F 09/20/19 | Working with numbers, primality, approximation algorithms |
-|  5   |  12  | M 09/23/19 | More repetition |
+|      |  10  | W 09/18/19 | The graphics library; Working with images; repetitive images, stripes |
+|      |  11  | F 09/20/19 | Working with numbers, primality, the Sieve of Eratosthenes |
+|  5   |  12  | M 09/23/19 | More repetition; an ancient approximation algorithm; Fibonacci numbers |
 |      |  13  | W 09/25/19 | Sorting: insertion sort |
 |      |  14  | F 09/27/19 | **First Exam** |
 |  6   |  15  | M 09/30/19 | More on sorting: the quicksort & mergesort algorithms |
