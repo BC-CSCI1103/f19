@@ -97,13 +97,13 @@ Boston College
 |      |  3   | F 08/30/19 | libraries |
 |  2   |      | M 09/02/19 | **Labor Day, No Meeting** |
 |      |  4   | W 09/04/19 | Names: `let` and `let-in`; function definitions and calls; replacement; explicit types or implicit types with type inference |
-|      |  5   | F 09/06/19 | More on function definitions; the graphics library  |
-|  3   |  6   | M 09/09/19 | **Guest Lecturer**: Tuples & pattern matching branching; variable bindings & scope |
-|      |  7   | W 09/11/19 | record & sum types |
-|      |  8   | F 09/13/19 | Repetition: recursive list processing, `List.mem` & `List.append`; polymorphism |
-|  4   |  9   | M 09/16/19 | Working with lists; learning from `List.rev`; computational shapes; |
-|      |  10  | W 09/18/19 | Working with numbers, primality |
-|      |  11  | F 09/20/19 | Working with repetitive images |
+|      |  5   | F 09/06/19 | More on function definitions; tuples; polymorphism |
+|  3   |  6   | M 09/09/19 | Branching & sum types; match expressions; the `bool` type |
+|      |  7   | W 09/11/19 | Lists; repetition & recursive list processing, `List.mem` & `List.append` |
+|      |  8   | F 09/13/19 | learning from `List.rev`; computational shapes; local functions |
+|  4   |  9   | M 09/16/19 | More working with lists; `sublists` recursion & induction; record types |
+|      |  10  | W 09/18/19 | The graphics library; Working with repetitive images |
+|      |  11  | F 09/20/19 | Working with numbers, primality, approximation algorithms |
 |  5   |  12  | M 09/23/19 | More repetition |
 |      |  13  | W 09/25/19 | Sorting: insertion sort |
 |      |  14  | F 09/27/19 | **First Exam** |
