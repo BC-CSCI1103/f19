@@ -37,7 +37,7 @@ Boston College
 <details><summary>Darius Russell Kish</summary>
 
 + **Section 03**: Higgins 275 Tuesday 5PM.
-+ **Office Hours** Mondays 5PM -- 10PM **Devlin 009**, Tuesdays 6PM -- 7PM, Fulton Hall 160.
++ **Office Hours** Mondays 5PM -- 10PM **Devlin 009**, Tuesdays 6PM -- 7PM **By Appointment**, Fulton Hall 160.
 
 </details>
 
