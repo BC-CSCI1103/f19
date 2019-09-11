@@ -95,7 +95,7 @@ Boston College
 |  [1](https://github.com/BC-CSCI1103/Week01)  |  1   | M 08/26/19 | Introduction and Overview                |
 |      |  2   | W 08/28/19 | Development logistics -- working with Virtual Box, Atom & OCaml; Base types; literals & expressions; simplification & work; values; |
 |      |  3   | F 08/30/19 | libraries |
-|  2   |      | M 09/02/19 | **Labor Day, No Meeting** |
+|  [2](https://github.com/BC-CSCI1103/Week02)  |      | M 09/02/19 | **Labor Day, No Meeting** |
 |      |  4   | W 09/04/19 | Names: `let` and `let-in`; function definitions and calls; replacement; explicit types or implicit types with type inference |
 |      |  5   | F 09/06/19 | More on function definitions; tuples; polymorphism |
 |  3   |  6   | M 09/09/19 | Branching & sum types; match expressions; the `bool` type |
