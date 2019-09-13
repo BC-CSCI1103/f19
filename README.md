@@ -98,7 +98,7 @@ Boston College
 |  [2](https://github.com/BC-CSCI1103/Week02)  |      | M 09/02/19 | **Labor Day, No Meeting** |
 |      |  4   | W 09/04/19 | Names: `let` and `let-in`; function definitions and calls; replacement; explicit types or implicit types with type inference |
 |      |  5   | F 09/06/19 | More on function definitions; tuples; polymorphism |
-| [2](https://github.com/BC-CSCI1103/Week03) |  6   | M 09/09/19 | Branching & sum types; match expressions; the `bool` type |
+| [3](https://github.com/BC-CSCI1103/Week03) |  6   | M 09/09/19 | Branching & sum types; match expressions; the `bool` type |
 |      |  7   | W 09/11/19 | Lists; repetition & recursive list processing, `List.mem` & `List.append` |
 |      |  8   | F 09/13/19 | learning from `List.rev`; computational shapes; local functions |
 |  4   |  9   | M 09/16/19 | More working with lists; `sublists` recursion & induction; record types |
