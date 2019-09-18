@@ -4,11 +4,12 @@
 
 Boston College
 
-------
+---
 
 [About](resources/about.md) — [Textbooks](resources/textbooks.md) — [Grading](resources/grading.md) — [Canvas](https://bostoncollege.instructure.com/courses/1601979/gradebook) — [Piazza](https://piazza.com/class/jzpxeqmmnxf2mv)
 
-[Manual](http://caml.inria.fr/pub/docs/manual-ocaml/index.html) — [Stdlib](http://caml.inria.fr/pub/docs/manual-ocaml/stdlib.html) — [Pervasives](http://caml.inria.fr/pub/docs/manual-ocaml/libref/Pervasives.html) — [Universe](http://www.is.ocha.ac.jp/~asai/Universe/en/) — [Universe Notes](./resources/universe/README.md) — [OCaml.org](https://ocaml.org/) — [Cornell CS3110](https://www.cs.cornell.edu/courses/cs3110/2019fa/) [Code](./resources/code.mli)
+[Manual](http://caml.inria.fr/pub/docs/manual-ocaml/index.html) — [Stdlib](http://caml.inria.fr/pub/docs/manual-ocaml/stdlib.html) — [Pervasives](http://caml.inria.fr/pub/docs/manual-ocaml/libref/Pervasives.html) — [Universe](http://www.is.ocha.ac.jp/~asai/Universe/en/) — [Universe Notes](./resources/universe/README.md) — [OCaml.org](https://ocaml.org/) — [Cornell CS3110](https://www.cs.cornell.edu/courses/cs3110/2019fa/) — [Code](./resources/code.mli)
+
 ---
 
 <details>
