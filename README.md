@@ -10,9 +10,10 @@ Boston College
 
 [Manual](http://caml.inria.fr/pub/docs/manual-ocaml/index.html) — [Stdlib](http://caml.inria.fr/pub/docs/manual-ocaml/stdlib.html) — [Pervasives](http://caml.inria.fr/pub/docs/manual-ocaml/libref/Pervasives.html) — [Universe](http://www.is.ocha.ac.jp/~asai/Universe/en/) — [Universe Notes](./resources/universe/README.md) — [OCaml.org](https://ocaml.org/) — [Cornell CS3110](https://www.cs.cornell.edu/courses/cs3110/2019fa/)
 
+[Code](./resources/code.mli)
 ---
 
-<details open>
+<details>
   <summary>Administration</summary>
 
 **Meets:** 
@@ -26,7 +27,7 @@ Boston College
 
 **Teaching Assistants:**
 
-<details> <summary>Jacob Bennett, Head Teaching Assistant</summary>
+<details open> <summary>Jacob Bennett, Head Teaching Assistant</summary>
 
 + **Section 01**: Higgins 280 Monday 4PM.
 + **Office Hours** Tuesdays 3PM -- 4:30PM, Thursdays **10:30AM -- 11:45AM, Fulton Hall 160.
