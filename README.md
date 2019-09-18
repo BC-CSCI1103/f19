@@ -32,21 +32,21 @@ Boston College
 
 </details>
 
-<details> <summary>Gavin Bloom</summary>
+<details open> <summary>Gavin Bloom</summary>
 
 + **Section 04**: Higgins 280, Tuesday 6PM.
 + **Office Hours** Thursdays 9:30AM -- 11:30AM, Fridays 9:30AM -- 10:30AM, Fulton Hall 160.
 
 </details>
 
-<details><summary>Darius Russell Kish</summary>
+<details open><summary>Darius Russell Kish</summary>
 
 + **Section 03**: Higgins 275 Tuesday 5PM.
 + **Office Hours** Mondays 5PM -- 10PM **Devlin 009**, Tuesdays 6PM -- 7PM **By Appointment**, Fulton Hall 160.
 
 </details>
 
-<details><summary>Matthew Spana</summary>
+<details open><summary>Matthew Spana</summary>
 
 + **Section 02**: Higgins 280 Monday 5PM.
 + **Office Hours** Fridays 2PM -- 4PM, Sundays 3PM -- 6PM, Fulton Hall 160.
