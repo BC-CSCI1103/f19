@@ -101,18 +101,18 @@ Boston College
 | [3](https://github.com/BC-CSCI1103/Week03) |  6   | M 09/09/19 | Branching & sum types; match expressions; the `bool` type |
 |      |  7   | W 09/11/19 | Lists; repetition & recursive list processing, `List.mem` & `List.append` |
 |      |  8   | F 09/13/19 | learning from `List.rev`; computational shapes; local functions |
-|  4   |  9   | M 09/16/19 | More working with lists; `sublists` recursion & induction; record types |
-|      |  10  | W 09/18/19 | The graphics library; Working with images; repetitive images, stripes |
-|      |  11  | F 09/20/19 | Working with numbers, primality, the Sieve of Eratosthenes |
-|  5   |  12  | M 09/23/19 | More repetition; an ancient approximation algorithm; Fibonacci numbers |
-|      |  13  | W 09/25/19 | Sorting: insertion sort |
+| [4](https://github.com/BC-CSCI1103/Week04) |  9   | M 09/16/19 | More working with lists; recursion & induction; |
+|      |  10  | W 09/18/19 | record types |
+|      |  11  | F 09/20/19 | The graphics library; Working with images; repetitive images, stripes |
+|  5   |  12  | M 09/23/19 | Working with numbers, primality, the Sieve of Eratosthenes |
+|      |  13  | W 09/25/19 | More repetition; an ancient approximation algorithm; Fibonacci numbers |
 |      |  14  | F 09/27/19 | **First Exam** |
-|  6   |  15  | M 09/30/19 | More on sorting: the quicksort & mergesort algorithms |
+|  6   |  15  | M 09/30/19 | More on sorting: insertion sort, the quicksort & mergesort algorithms |
 |      |  16  | W 10/02/19 | Animation: the model-view-update architecture |
 |      |  17  | F 10/04/19 | Exam review; Functions are values: `List.map` & `List.filter`, folding |
 |  7   |  18  | M 10/07/19 | More on function values: function slope, Riemann sums |
 |      |  19  | W 10/09/19 | Dictionaries: association lists & binary search trees |
-|      |  20  | F 10/11/19 | The Best Candidate Algorithm |
+|      |  20  | F 10/11/19 | The Best Candidate Algorithm; `sublists` |
 |  8   |      | M 10/14/19 | **No Meeting** |
 |      |  21  | W 10/16/19 | Symbols and Digital Representations; Positional Numeral Systems |
 |      |  22  | F 10/18/19 | Binary — logic gates; a ripple-carry adder; Hexadecimal |
