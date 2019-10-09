@@ -104,44 +104,54 @@ Boston College
 | [4](https://github.com/BC-CSCI1103/Week04) |  9   | M 09/16/19 | More working with lists; recursion & induction; |
 |      |  10  | W 09/18/19 | record types |
 |      |  11  | F 09/20/19 | The graphics library; Working with images; repetitive images, stripes |
-|  5   |  12  | M 09/23/19 | Working with numbers, primality, the Sieve of Eratosthenes |
-|      |  13  | W 09/25/19 | More repetition; an ancient approximation algorithm; Fibonacci numbers |
-|      |  14  | F 09/27/19 | **First Exam** |
-|  6   |  15  | M 09/30/19 | More on sorting: insertion sort, the quicksort & mergesort algorithms |
-|      |  16  | W 10/02/19 | Animation: the model-view-update architecture |
-|      |  17  | F 10/04/19 | Exam review; Functions are values: `List.map` & `List.filter`, folding |
+| [5](https://github.com/BC-CSCI1103/Week05) |  12  | M 09/23/19 | Recursion & Mathematical Induction; `addToAll`, `sublists` |
+|      |  13  | W 09/25/19 | Animation: Elm's model-view-update architecture |
+|      |  14  | F 09/27/19 | [First Exam](./resources/exams/firstKeyF19.pdf) |
+|  6   |  15  | M 09/30/19 | The Best Candidate Algorithm |
+|      |  16  | W 10/02/19 | Exam review; The `'a option` type; Functions are Values: `List.map` |
+|      |  17  | F 10/04/19 | Functions are values: `List.`{`fold_left`, `fold_right`, `for_all`, `exists`} |
 |  7   |  18  | M 10/07/19 | More on function values: function slope, Riemann sums |
-|      |  19  | W 10/09/19 | Dictionaries: association lists & binary search trees |
-|      |  20  | F 10/11/19 | The Best Candidate Algorithm; `sublists` |
+|      |  19  | W 10/09/19 | Modules: implementing a dictionary |
+|      |  20  | F 10/11/19 | binary search trees, performance measurement |
 |  8   |      | M 10/14/19 | **No Meeting** |
 |      |  21  | W 10/16/19 | Symbols and Digital Representations; Positional Numeral Systems |
-|      |  22  | F 10/18/19 | Binary — logic gates; a ripple-carry adder; Hexadecimal |
+|      |  22  | F 10/18/19 | Binary & Hexadecimal; logic gates; a ripple-carry adder; |
 |  9   |  23  | M 10/21/19 | Machines & Storage Architecture, Bits, Bytes & Words |
-|      |  24  | W 10/23/19 | SVM — A Simple Virtual Machine |
-|      |  25  | F 10/25/19 | Assembly coding |
-|  10  |  26  | M 10/28/19 | Storage diagrams & the storage model of evaluation |
+|      |  24  | W 10/23/19 | Storage diagrams & the storage model of evaluation |
+|      |  25  | F 10/25/19 | SVM — A Simple Virtual Machine |
+|  10  |  26  | M 10/28/19 | Assembly coding |
 |      |  27  | W 10/30/19 | Imperative coding in OCaml: mutable references; arrays |
 |      |  28  | F 11/01/19 | **Second Exam** |
-|  11  |  29  | M 11/04/19 | Mutable state, block storage (arrays, vectors), for-loops & while-loops |
-|      |  30  | W 11/06/19 | More on for-loops & while-loops |
-|      |  31  | F 11/08/19 | Exam review; benefits & challenges of the imperative style |
+|  11  |  29  | M 11/04/19 | Exam review; Mutable state, block storage (arrays, vectors), |
+|      |  30  | W 11/06/19 | Repetition with `for`-loops & `while`-loops |
+|      |  31  | F 11/08/19 | More on for-loops & while-loops |
 |  12  |  32  | M 11/11/19 | Applications of arrays: digital audio |
 |      |  33  | W 11/13/19 |  |
-|      |  34  | F 11/15/19 | Working with 2D arrays: digital images |
-|  13  |  35  | M 11/18/19 | Search problems: mazes, Eight Queens |
-|      |  36  | W 11/20/19 | Search problems: eight queens, the knights tour |
-|      |  37  | F 11/22/19 | Working with strings & text files |
-|  14  |  38  | M 11/25/19 | Working with strings & text files; applications in bioinformatics |
+|      |  34  | F 11/15/19 | Applications of 2D arrays: digital images |
+|  13  |  35  | M 11/18/19 |  |
+|      |  36  | W 11/20/19 | Benefits & challenges of the imperative style |
+|      |  37  | F 11/22/19 | Search problems: mazes, Eight Queens |
+|  14  |  38  | M 11/25/19 | Search problems: eight queens, the knights tour |
 |      |      | W 11/27/19 | **No Meeting** |
 |      |      | F 11/29/19 | **No Meeting** |
-|  15  |  39  | M 12/02/19 | Working with strings and text files; applications in bioinformatics |
-|      |  40  | W 12/04/19 | Modules |
-|      |  41  | F 12/06/19 | Type abstraction: making new types in OCaml and Java |
-|  16  |  42  | M 12/09/19 | Last Meeting; Catch up and Review |
+|  15  |  39  | M 12/02/19 | Working with strings & text files |
+|      |  40  | W 12/04/19 | Working with strings & text files; applications in bioinformatics |
+|      |  41  | F 12/06/19 | Working with strings and text files; applications in bioinformatics |
+|  16  |  42  | M 12/09/19 | Last Meeting: OCaml & Java |
 
 </details>
 
 ---
+
+ 
+
+> FIT THESE IN??
+>
+> + an ancient approximation algorithm; Fibonacci numbers;
+> + Working with numbers, primality, the Sieve of Eratosthenes
+> + Sorting: Insertion sort, quick-sort & merge-sort
+>
+> 
 
 # Labs
 
