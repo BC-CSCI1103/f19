@@ -107,7 +107,7 @@ Boston College
 | [5](https://github.com/BC-CSCI1103/Week05) |  12  | M 09/23/19 | Recursion & Mathematical Induction; `addToAll`, `sublists` |
 |      |  13  | W 09/25/19 | Animation: Elm's model-view-update architecture |
 |      |  14  | F 09/27/19 | [First Exam](./resources/exams/firstKeyF19.pdf) |
-|  6   |  15  | M 09/30/19 | The Best Candidate Algorithm |
+| [6](https://github.com/BC-CSCI1103/Week06) |  15  | M 09/30/19 | The Best Candidate Algorithm |
 |      |  16  | W 10/02/19 | Exam review; The `'a option` type; Functions are Values: `List.map` |
 |      |  17  | F 10/04/19 | Functions are values: `List.`{`fold_left`, `fold_right`, `for_all`, `exists`} |
 |  7   |  18  | M 10/07/19 | More on function values: function slope, Riemann sums |
