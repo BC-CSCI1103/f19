@@ -110,7 +110,7 @@ Boston College
 | [6](https://github.com/BC-CSCI1103/Week06) |  15  | M 09/30/19 | The Best Candidate Algorithm |
 |      |  16  | W 10/02/19 | Exam review; The `'a option` type; Functions are Values: `List.map` |
 |      |  17  | F 10/04/19 | Functions are values: `List.`{`fold_left`, `fold_right`, `for_all`, `exists`} |
-|  7   |  18  | M 10/07/19 | More on function values: function slope, Riemann sums |
+| [7](https://github.com/BC-CSCI1103/Week07) |  18  | M 10/07/19 | More on function values: function slope, Riemann sums |
 |      |  19  | W 10/09/19 | Modules: implementing a dictionary |
 |      |  20  | F 10/11/19 | binary search trees, performance measurement |
 |  8   |      | M 10/14/19 | **No Meeting** |
