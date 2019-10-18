@@ -114,24 +114,24 @@ Boston College
 |      |  19  | W 10/09/19 | Modules: implementing a dictionary |
 |      |  20  | F 10/11/19 | binary search trees, performance measurement |
 |  8   |      | M 10/14/19 | **No Meeting** |
-|      |  21  | W 10/16/19 | Symbols and Digital Representations; Positional Numeral Systems |
-|      |  22  | F 10/18/19 | Binary & Hexadecimal; logic gates; a ripple-carry adder; |
-|  9   |  23  | M 10/21/19 | Machines & Storage Architecture, Bits, Bytes & Words |
-|      |  24  | W 10/23/19 | Storage diagrams & the storage model of evaluation |
-|      |  25  | F 10/25/19 | SVM — A Simple Virtual Machine |
-|  10  |  26  | M 10/28/19 | Assembly coding |
-|      |  27  | W 10/30/19 | Imperative coding in OCaml: mutable references; arrays |
+|      |  21  | W 10/16/19 | Algorithms for Sorting Keys |
+|      |  22  | F 10/18/19 | Symbols and Digital Representations; Positional Numeral Systems |
+|  9   |  23  | M 10/21/19 | Binary & Hexadecimal; logic gates; a ripple-carry adder; |
+|      |  24  | W 10/23/19 | Machines & Storage Architecture, Bits, Bytes & Words |
+|      |  25  | F 10/25/19 | Storage diagrams & the storage model of evaluation |
+|  10  |  26  | M 10/28/19 | SVM — A Simple Virtual Machine |
+|      |  27  | W 10/30/19 | Assembly coding |
 |      |  28  | F 11/01/19 | **Second Exam** |
-|  11  |  29  | M 11/04/19 | Exam review; Mutable state, block storage (arrays, vectors), |
-|      |  30  | W 11/06/19 | Repetition with `for`-loops & `while`-loops |
-|      |  31  | F 11/08/19 | More on for-loops & while-loops |
-|  12  |  32  | M 11/11/19 | Applications of arrays: digital audio |
-|      |  33  | W 11/13/19 |  |
-|      |  34  | F 11/15/19 | Applications of 2D arrays: digital images |
-|  13  |  35  | M 11/18/19 |  |
-|      |  36  | W 11/20/19 | Benefits & challenges of the imperative style |
-|      |  37  | F 11/22/19 | Search problems: mazes, Eight Queens |
-|  14  |  38  | M 11/25/19 | Search problems: eight queens, the knights tour |
+|  11  |  29  | M 11/04/19 | Exam review; Imperative coding in OCaml: mutable references; arrays |
+|      |  30  | W 11/06/19 | Mutable state, block storage (arrays, vectors), |
+|      |  31  | F 11/08/19 | Repetition with `for`-loops & `while`-loops |
+|  12  |  32  | M 11/11/19 | More on for-loops & while-loops |
+|      |  33  | W 11/13/19 | Applications of arrays: digital audio |
+|      |  34  | F 11/15/19 |  |
+|  13  |  35  | M 11/18/19 | Applications of 2D arrays: digital images |
+|      |  36  | W 11/20/19 |  |
+|      |  37  | F 11/22/19 | Benefits & challenges of the imperative style |
+|  14  |  38  | M 11/25/19 | Search problems: mazes, eight queens, the knights tour |
 |      |      | W 11/27/19 | **No Meeting** |
 |      |      | F 11/29/19 | **No Meeting** |
 |  15  |  39  | M 12/02/19 | Working with strings & text files |
@@ -148,10 +148,11 @@ Boston College
 > FIT THESE IN??
 >
 > + an ancient approximation algorithm; Fibonacci numbers;
-> + Working with numbers, primality, the Sieve of Eratosthenes
-> + Sorting: Insertion sort, quick-sort & merge-sort
 >
-> 
+> + Working with numbers, primality, the Sieve of Eratosthenes
+>
+>   
+>
 
 # Labs
 
