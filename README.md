@@ -116,7 +116,7 @@ Boston College
 | [8](https://github.com/BC-CSCI1103/Week08) |      | M 10/14/19 | **No Meeting** |
 |      |  21  | W 10/16/19 | Sorting Algorithms |
 |      |  22  | F 10/18/19 | Symbols and Digital Representations; Positional Numeral Systems |
-|  9   |  23  | M 10/21/19 | Binary & Hexadecimal; logic gates; a ripple-carry adder; |
+| [9](https://github.com/BC-CSCI1103/Week09) |  23  | M 10/21/19 | Binary & Hexadecimal; logic gates; a ripple-carry adder; |
 |      |  24  | W 10/23/19 | Machines & Storage Architecture, Bits, Bytes & Words |
 |      |  25  | F 10/25/19 | SVM — A Simple Virtual Machine |
 |  10  |  26  | M 10/28/19 | Assembly coding |
