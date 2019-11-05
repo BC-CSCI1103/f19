@@ -119,7 +119,7 @@ Boston College
 | [9](https://github.com/BC-CSCI1103/Week09) |  23  | M 10/21/19 | Binary & Hexadecimal; logic gates; a ripple-carry adder; |
 |      |  24  | W 10/23/19 | Machines & Storage Architecture, Bits, Bytes & Words |
 |      |  25  | F 10/25/19 | SVM — A Simple Virtual Machine |
-|  10  |  26  | M 10/28/19 | Assembly coding |
+|  [10](https://github.com/BC-CSCI1103/Week10)  |  26  | M 10/28/19 | Assembly coding |
 |      |  27  | W 10/30/19 | Assembly coding |
 |      |  28  | F 11/01/19 | Storage Architecture |
 |  11  |  29  | M 11/04/19 | Storage diagrams & the storage model of evaluation |
