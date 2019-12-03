@@ -128,10 +128,10 @@ Boston College
 |  12  |  32  | M 11/11/19 | Mutable state, block storage (arrays)                        |
 |                                            |      |            | Repetition with `for`-loops & `while`-loops |
 |      |  34  | F 11/15/19 | Applications of arrays: digital audio |
-|  13  |  35  | M 11/18/19 |  |
+|  [13](https://github.com/BC-CSCI1103/Week13)  |  35  | M 11/18/19 |  |
 |      |  36  | W 11/20/19 |  |
 |      |  37  | F 11/22/19 | Benefits & challenges of the imperative style |
-|  14  |  38  | M 11/25/19 | Search problems: mazes, eight queens, the knights tour |
+|  [14](https://github.com/BC-CSCI1103/Week14)  |  38  | M 11/25/19 | Search problems: mazes, eight queens, the knights tour |
 |      |      | W 11/27/19 | **No Meeting** |
 |      |      | F 11/29/19 | **No Meeting** |
 |  15  |  39  | M 12/02/19 | Working with strings & text files |
